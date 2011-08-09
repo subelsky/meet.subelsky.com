@@ -1,4 +1,4 @@
 ---
-exclude: []
+exclude: [Gemfile, Gemfile.lock, Rakefile]
 auto: true
 ---
