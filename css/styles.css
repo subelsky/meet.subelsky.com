@@ -2,6 +2,15 @@ body {
   font-family: 'Arvo', serif;
 }
 
+h1 {
+  font-size: 36px;
+}
+
+h1, h2 {
+  font-family: 'Yanone Kaffeesatz', sans-serif;
+}
+
+
 #container {
 }
 
